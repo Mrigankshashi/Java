@@ -27,7 +27,7 @@ public class Iterations {
 			idx++;
 		}while(idx<=4);*/
 		
-		for(int idx =1; idx <=4 ; idx++) {
+		for(int idx =1; idx <=5 ; idx++) {
 			System.out.print(whiteSquare +" "+ blackSquare+" ");
 		}
 		
