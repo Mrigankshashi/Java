@@ -16,7 +16,7 @@ public class ConsoleInteraction {
 		System.out.println("Enter your Name: ");
 		String name = scanner.nextLine();
 		
-		System.out.println("Welcome, "+name+" your age "+age+" is eligible for voting :)");
+		System.out.println("Welcome guests, "+name+" your age "+age+" is eligible for voting :)");
 		scanner.close(); // close the scanner in the end to release memory resources
 		
 	}
