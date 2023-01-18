@@ -30,6 +30,7 @@ public class Iterations {
 		for(int idx =1; idx <=4 ; idx++) {
 			System.out.print(whiteSquare +" "+ blackSquare+" ");
 		}
+		//We are trying to print chess board.
 		
 		
 	}
