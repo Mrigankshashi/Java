@@ -13,8 +13,8 @@ public class ConditionalConstructs {
 		System.out.println("Enter order amount: ");
 		amount = scanner.nextDouble();
 		
-		System.out.println("Enter the promo code: ");
-		promoCodeByUser = scanner.nextInt();
+//		System.out.println("Enter the promo code: ");
+//		promoCodeByUser = scanner.nextInt();
 		
 		System.out.println("Enter your naviugation choice: ");
 		int choice = scanner.nextInt();
