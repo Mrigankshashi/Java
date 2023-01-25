@@ -1,4 +1,5 @@
 package com.amazon.buspassmanagement;
+import java.util.*;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -50,7 +51,7 @@ public class App {
 		// Login code should come before the menu becomes visible to the Admin
 		User adminUser = new User();
 		
-		// An empty scanner .nextLine as we are reading string after int :)
+		 // An empty scanner .nextLine as we are reading string after int :)
 		scanner.nextLine();
 		
 		System.out.println("Enter Your Email: ");
